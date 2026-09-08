@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Clase de Git</title>
+<style>
+body { background-color:
+lightblue; }
+</style>
+</head>
+<body>
+<h1>Resolviendo
+Conflictos</h1>
+</body>
+</html>
